@@ -62,16 +62,24 @@ Follow the notebook steps:
 The model was evaluated using standard metrics due to class imbalance:
 
 ================== Logistic Regression =================
+
+
 Accuracy: 94.508 %
 Precision: 97.322 %
 Recall: 91.527 %
 F1 Score: 94.336 %
 
+
+
 ================== Decision Tree Classifier =================
+
+
 Accuracy: 99.825 %
 Precision: 99.733 %
 Recall: 99.918 %
 F1 Score: 99.825 %
+
+
 
 ## Results
 
